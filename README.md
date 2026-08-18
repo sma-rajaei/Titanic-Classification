@@ -1,8 +1,33 @@
-# Titanic-Classification
-A machine learning classification project to predict Titanic passenger survival using data preprocessing, feature engineering, and supervised learning models.
+# Titanic Survival Prediction
 
-# Results
+## Overview
+This project predicts whether a passenger survived the Titanic disaster using machine learning models.
 
-Although tree-based models were optimized using GridSearchCV, Logistic Regression achieved the best generalization performance on the unseen test set.
+## Dataset
+Kaggle Titanic Dataset
 
-<img width="600" height="161" alt="image" src="https://github.com/user-attachments/assets/93f8a4fb-c2ce-4b51-a89e-222ac65c4ee8" />
+## Workflow
+
+- Exploratory Data Analysis
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+
+## Models
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+## Results
+Best Model : Random Forest
+<img width="600" height="161" alt="image" src="https://github.com/user-attachments/assets/1eb878b9-84bc-4c93-9522-271b882d20d3" />
+
+
+## Tools
+
+Python
+Pandas
+Scikit-learn
+Matplotlib
