@@ -4,7 +4,9 @@
 This project predicts whether a passenger survived the Titanic disaster using machine learning models.
 
 ## Dataset
-Kaggle Titanic Dataset
+
+Kaggle Titanic Dataset:
+https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
 ## Workflow
 
