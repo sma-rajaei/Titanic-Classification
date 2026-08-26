@@ -2,9 +2,6 @@
 
 ## Overview
 
-This project is my first step into machine learning and helped me build a practical understanding of the complete ML workflow.  
-By working on this project, I learned how to analyze real-world data, engineer meaningful features, train and evaluate different models, and improve performance through optimization techniques.
-
 The project focuses on predicting whether a passenger survived the Titanic disaster using machine learning classification algorithms.
 
 The dataset contains information about Titanic passengers, and the target variable `Survived` indicates whether a passenger survived:
